@@ -29,4 +29,4 @@ Profit-Predict-with-Regression-Linear/
 
 ## 📝 Kontributor
 
-- **Nama Anda** | [GitHub](https://github.com/Rizkyard17) | [LinkedIn](https://www.linkedin.com/in/m-rizky-ardiansyah-putra-b73167249/)
+- **M. Rizky Ardiansyah Putra** | [GitHub](https://github.com/Rizkyard17) | [LinkedIn](https://www.linkedin.com/in/m-rizky-ardiansyah-putra-b73167249/)
