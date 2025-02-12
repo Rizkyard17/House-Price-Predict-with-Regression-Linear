@@ -1,5 +1,4 @@
 # Profit Predict with Regression Linear
-##📌 Deskripsi
 
 Proyek **Profit Predict with Regression Linear** bertujuan untuk memprediksi profit bisnis berdasarkan variabel yang relevan menggunakan regresi linear. Model ini membantu dalam analisis data bisnis untuk pengambilan keputusan yang lebih baik.
 
